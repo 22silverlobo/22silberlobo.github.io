@@ -1,0 +1,19 @@
+h1 {
+	font-size: 60px;
+}
+.headers {
+	font-family: 'Cinzel Decorative', cursive;
+	}
+body {
+	background: url("http://cdn4.designbyhumans.com/product/design/u697945/pr30151-1200x675-b-p-000000.jpg");
+	text-align: left;
+	background-size: cover;
+	color: white;}
+	
+	.paragraph{
+	font-family:'Droid Serif', serif,'Montserrat', sans-serif;
+}
+#lorem {
+	line-height: 1.5em;
+	margin-right: 750px;
+}

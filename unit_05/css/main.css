@@ -1,0 +1,60 @@
+h1 {
+	font-size: 20px;
+}
+.headers {
+	font-family: 'Cinzel Decorative', cursive, bold;
+	}
+body {
+	text-align: left;
+	background-size: cover;
+	background-color:  black;
+	color: white;
+}
+	
+	.paragraph{
+	font-family:'Droid Serif', serif,'Montserrat', sans-serif;
+}
+
+#lorem {
+	line-height: 1.5em;
+	margin-right: 750px;
+}
+
+footer {
+	text-align: center;
+	padding: 1em 0;
+	background: white;
+	color: black;
+}
+
+ul {
+	
+	list-style-type: none;
+	color: black;
+	margin: 0;
+	padding: 0;
+	background-color: white;
+	overflow: hidden;
+}
+
+li {
+	display: block;
+	float: right;
+	font-weight: bold;
+	text-align: center;
+	padding: 10px 16px;
+	font-size: 16px;
+	border-left: 1px solid black;
+}
+
+#websname {
+		font-family: 'Cinzel Decorative', cursive;
+		font-weight: bold;
+}
+
+img {
+
+	margin: 0 auto;
+	display: block;
+}
+

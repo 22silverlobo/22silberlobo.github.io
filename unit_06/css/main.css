@@ -1,0 +1,134 @@
+h1 {
+	font-size: 20px;
+}
+h2 {
+	font-size: 20px;
+}
+.headers {
+	font-family: 'Cinzel Decorative', cursive, bold;
+}
+
+
+body {
+	text-align: left;
+	background-size: cover;
+	color: white;
+}
+	
+.paragraph{
+	font-family:'Droid Serif', serif,'Montserrat', sans-serif;
+}
+
+
+footer {
+	clear: both;
+	display: border;
+	text-align: center;
+	background: white;
+	color: black;
+	padding: 8px;
+}
+
+
+#websname {
+	font-family: 'Cinzel Decorative', cursive;
+	font-weight: bold;
+	background-color: gray;
+	border-right: 2px solid black;
+}
+
+#websname:hover {
+	color: white;
+	background-color: black;
+}
+
+nav a:hover {
+	background-color: black;
+	color: white;
+}
+
+
+nav {
+	font-size: 18px;
+	background-color: white;
+}
+
+nav a {
+	background-color: gray;
+	float: right;
+	text-decoration: none;
+	display: block;
+	color: black;
+	border-left: 2px solid black;
+	padding: 8px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: both;
+	height: 0;
+	font-size: 0;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	background-color: gray;
+	color: black;
+}
+#two_column {
+	background-color: gray;
+	border: 1px black solid;
+	padding: 20px;
+}
+#right {
+	float: right;
+	width: 10%
+	padding: 20px;
+	background-color: gray;
+	border: 1px solid white;
+}
+
+#left {
+	background-color: gray;
+	float: left;
+	width: 35%;
+	border: 1px solid white;
+	color: black;
+	text-align: center;
+	padding: 20px;
+}
+
+#articleheader {
+	font-family: 'Cinzel Decorative', cursive, bold;
+	clear: both;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#signup {
+	background-color: black;
+	color: white;
+	display: block;
+	padding: 10px;
+	width: 10%;
+	border: 1px solid white;
+}
+
+hr {
+
+	color: black;
+	width: 75px;
+
+}
+
+
+#aftercolumn {
+	color: white;
+	clear: both;
+	background-color: black;
+}
